@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack, Back-End & Front-End Developer</h3>
 
 <p align="center">
-  <em>Results-oriented web application developer with considerable training and experience in web development, covering all stages of design, coding, and testing. Passionate about technology and continuous learning, I strive to stay up-to-date with the latest tech stack and implement them in upcoming projects.</em>
+  <h3><em>Architect of high-performance, enterprise-grade systems with mastery across design, coding, and testing. Passionate about pushing boundaries in AI, automation, and full-stack development — building solutions engineered for scale, efficiency, and impact.</em></h3>
 </p>
 
 <p align="center">
