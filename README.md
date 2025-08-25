@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack, Back-End & Front-End Developer</h3>
 
 <h3 align="center">
-  <em>Architect of high-performance, enterprise-grade systems with mastery across design, coding, and testing. Passionate about pushing boundaries in AI, automation, and full-stack development — building solutions engineered for scale, efficiency, and impact.</em>
+  <em align="center">Architect of high-performance, enterprise-grade systems with mastery across design, coding, and testing. Passionate about pushing boundaries in AI, automation, and full-stack development — building solutions engineered for scale, efficiency, and impact.</em>
 </h3>
 
 <p align="center">
