@@ -22,7 +22,14 @@
 ## Profile
 Experienced **Full-Stack (Front-End & Back-End) Software Developer**, adept in design, installation, testing, and maintenance of software systems.  
 Proficient in multiple programming languages, frameworks, and enterprise-level systems.  
-Skilled in **independent project execution** and **collaborative teamwork**, with nearly **10 years of freelance client project experience** and **5 years in corporate enterprise software development**.  
+
+I bring nearly **10 years of freelance client project experience** and **5 years in corporate enterprise software development**, with expertise in frameworks, APIs, security, and automation.  
+
+I am passionate about:  
+- **Automation & AI** building end-to-end workflow systems, custom trading bots, and API integrations.  
+- **Blockchain & Crypto** developing unique strategies and bots for crypto, forex, and gold markets.  
+- **Project & Business Management** helping companies and startups expand through technology, by **automating operations to become more efficient, effective, and profitable**.  
+
 
 ---
 
@@ -92,6 +99,27 @@ Skilled in **independent project execution** and **collaborative teamwork**, wit
 - DevOps: Infrastructure as Code, monitoring & logging tools  
 - Agile/Scrum methodologies, sprint planning  
 - Strong algorithm design, data structures, and problem solving  
+
+### Development & Frameworks
+- Front-End: **React, Angular, VueJS**  
+- Back-End: **Node.js, Express.js, Laravel, Django, Flask, NestJS, PHP**  
+- Backend APIs: **REST, GraphQL, FinTech APIs, Payment Gateways, Blockchain APIs, Crypto Exchange APIs**  
+- API-first architectures and microservices  
+
+### Automation & Workflow Integration
+- Advanced automation: **n8n, Make.com (Integromat), Zapier**  
+- End-to-end business automation pipelines for property management, finance, and SaaS  
+- Builder of **powerful customized trading bots** for **crypto, forex, and gold markets**  
+
+### Security & Performance
+- Authentication & Authorization (JWT, OAuth2)  
+- Data encryption, secure coding, penetration testing (Burp Suite, Metasploit, OWASP ZAP, Wireshark)  
+- Performance optimization: caching, load balancing, scaling  
+
+### Project & Business Management
+- Experienced in **Agile/Scrum** methodologies, sprint planning, backlog grooming  
+- **Project Management & Business Strategy**: aligning technology to maximize efficiency, profitability, and scalability for businesses  
+- Skilled at **helping startups and companies expand** by leveraging automation, APIs, and AI-driven systems  
 
 ---
 
