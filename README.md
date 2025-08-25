@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mac Neil Ivan L. Tumacay</h1>
 <h3 align="center">Full-Stack, Back-End & Front-End Developer</h3>
 
-<p align="center">
-  <h3><em>Architect of high-performance, enterprise-grade systems with mastery across design, coding, and testing. Passionate about pushing boundaries in AI, automation, and full-stack development — building solutions engineered for scale, efficiency, and impact.</em></h3>
-</p>
+<h3 align="center">
+  <em>Architect of high-performance, enterprise-grade systems with mastery across design, coding, and testing. Passionate about pushing boundaries in AI, automation, and full-stack development — building solutions engineered for scale, efficiency, and impact.</em>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tumacayivan&label=Profile%20views&color=0e75b6&style=flat" alt="tumacayivan" />
