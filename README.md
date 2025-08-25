@@ -53,9 +53,9 @@ Skilled in **independent project execution** and **collaborative teamwork**, wit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" width="60"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="60" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="60" width="60"/>
+  <!-- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="60" width="60"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="60" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="60" width="60"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="60" width="60"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60"/>
@@ -63,7 +63,7 @@ Skilled in **independent project execution** and **collaborative teamwork**, wit
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="60" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="60" width="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" height="60" width="60"/>
+  <!-- <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" height="60" width="60"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="60" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="60" width="60"/>
