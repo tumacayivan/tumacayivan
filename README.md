@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mac Neil Ivan L. Tumacay</h1>
+<h1 align="center">Hi, I'm Ivan Tumacay</h1>
 <h3 align="center">Full-Stack, Back-End & Front-End Developer</h3>
 
 <h3 align="center">
